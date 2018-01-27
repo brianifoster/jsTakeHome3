@@ -1,7 +1,7 @@
   var name = prompt("What's your name?", "John");
   var favColor = prompt("What's your favorite color?", "red, orange, yellow, green, blue, pink, purple, black, white, grey");
 
-    switch (favColor) {
+    switch (favColor.toLowerCase()) {
       case 'red':
         alert("Red is the color of blood, " + name + " the Warrior");
         break;
