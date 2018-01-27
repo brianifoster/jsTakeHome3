@@ -9,7 +9,7 @@
         alert("Orange is the color of perseverance, " + name + " the Endurer");
         break;
       case 'yellow':
-        alert("Yellow is the color of happiness, " + name + " the Joy-giver");
+        alert("Yellow is the color of happiness, " + name + " the Merrimaker");
         break;
       case 'green':
         alert("Green is the color of life, " + name + " the Healer");
